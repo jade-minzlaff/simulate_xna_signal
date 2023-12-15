@@ -10,6 +10,3 @@ Kawabe, H., Thomas, C.A., Hoshika, S. et al. Enzymatic synthesis and nanopore se
 this package was created as a final project for bioen537 computational systems biology, taught by professors hellerstein and sauro at the university of washington in fall 2023. 
 
 Special thanks to the Marchand Lab for allowing use of their data for this project and to Drs Sauro and Hellerstein for their help and guidance. 
-       
-        ..                                  
-        ..  
